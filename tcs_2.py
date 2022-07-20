@@ -1,3 +1,6 @@
+#Write a code to check whether a number is prime or not. use a function check() to check if no is pos or neg. 
+#if neg return a msg if pos pass no as parameter to a prime and check whether no is prime or not
+
 def prime(n):
     c=0
     for i in range(1,n+1):
